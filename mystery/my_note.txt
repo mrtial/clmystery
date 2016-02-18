@@ -1,0 +1,59 @@
+CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+-----------------
+Witness: Annabel
+   
+4 Annabel in vehicles
+  s
+
+License Plate 0O27BTD
+Make: Fiat
+Color: Yellow
+Owner: Annabel Sun
+Height: 5'0"
+Weight: 232 lbs
+
+
+License Plate 20VVU2P
+Make: Mazda
+Color: Pink
+Owner: Annabel Fuglsang
+Height: 5'11"
+Weight: 241 lbs
+
+
+License Plate L2E48EF
+Make: BMW
+Color: Orange
+Owner: Annabel Church
+Height: 5'5"
+Weight: 201 lbs
+
+
+License Plate 9R7TTGF
+Make: Volkswagen
+Color: Yellow
+Owner: Oluwasegun Annabel
+Height: 5'1"
+Weight: 240 lbs
+
+ --------------- 
+Annabel Sun	F	26	Hart Place, line 40
+Oluwasegun Annabel	M	37	Mattapan Street, line 173
+Annabel Church	F	38	Buckingham Place, line 179
+Annabel Fuglsang	M	40	Haley Street, line 176
+-------------
+SEE INTERVIEW #871877
+------------
+from interview
+Mr. Fuglsang is male and has brown hair.  Not the witness from the cafe.
+ --------bingo--------
+License Plate 20VVU2P
+Make: Mazda
+Color: Pink
+Owner: Annabel Fuglsang
+Height: 5'11"
+Weight: 241 lbs
+
+License Plate RIGMSHY
